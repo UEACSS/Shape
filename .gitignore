@@ -1,0 +1,14 @@
+# java
+*.class
+
+# c/++
+*.o
+*.obj
+*.exe
+*.out
+
+# netbeans
+*/build/*
+
+# sublime text
+*.sublime-*
